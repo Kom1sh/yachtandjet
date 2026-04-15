@@ -901,7 +901,7 @@ p {
   color: var(--navy);
 }
 
-.testimonial-author-info h4 {
+.testimonial-author-info h3 {
   color: var(--white);
   font-family: var(--font-body);
   font-size: 0.95rem;
@@ -1219,7 +1219,7 @@ p {
   font-size: 1.1rem;
 }
 
-.contact-info-item h4 {
+.contact-info-item h3 {
   color: var(--white);
   font-family: var(--font-body);
   font-size: 0.9rem;
@@ -1282,7 +1282,7 @@ p {
   color: var(--gold);
 }
 
-.footer-col h4 {
+.footer-col h3 {
   color: var(--white);
   font-family: var(--font-body);
   font-size: 0.9rem;
